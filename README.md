@@ -18,4 +18,4 @@ Created this from  scratch.
 https://darksky.net/dev
 
 ## Author
-[Sodai Hirano](https://github.com/tcnksm)
+[Sodai Hirano](https://github.com/Soddy-vx)
